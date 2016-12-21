@@ -3,7 +3,7 @@ title: Nandankanan Zoo, Odisha (India)
 date: 2016-12-21 12:48:23
 tags: travels
 ---
-Nandankanan zoo is a popular zoo in the city of Bhubaneswar, in the eastern Indian state of Odisha. I visited the zoo on the 21st of December. Nandankanan was established in 1960 and has been for decades, an integral part of Odisha's identity and a prime source of revenue from tourism.
+Nandankanan is a popular zoo in the city of Bhubaneswar, in the eastern Indian state of Odisha. I visited the zoo on the 21st of December. Nandankanan was established in 1960 and has been for decades, an integral part of Odisha's identity and a prime source of revenue from tourism.
 
 <!-- more -->
 
