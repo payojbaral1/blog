@@ -2,6 +2,7 @@
 menu:
   Home: /
   Travels: /tags/travels
+  Thoughts: /tags/thoughts
   Archives: /archives
   About: /about
 # rss: /atom.xml
